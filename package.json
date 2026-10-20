@@ -1,0 +1,20 @@
+{
+  "name": "studentmanagmentdemo",
+  "version": "1.0.0",
+  "description": "Sample project BUild to understan on the deployment ion vercile",
+  "homepage": "https://github.com/mallikarjunbd/StudentManagmentDemo#readme",
+  "bugs": {
+    "url": "https://github.com/mallikarjunbd/StudentManagmentDemo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallikarjunbd/StudentManagmentDemo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "this is local file"
+  }
+}
